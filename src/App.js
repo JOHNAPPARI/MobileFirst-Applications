@@ -5,7 +5,7 @@ import './App.css';
 const Details = () => {
   return(
     <div className='details'>
-        <h1 >Username: Admin</h1>
+        <h1 >Username: admin</h1>
         <p>Password: password</p>
       </div>
   )
